@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stmzmohr
+- 👀 I’m interested in future Technologies, Art, Product Design, Machine Learning & Artificial Intelligence as well as Human Machine Interaction
+- 🌱 I’m currently learning Python, Blender, Touch Designer and Unreal Engine/ Unity. 
+- 💞️ I’m looking to collaborate on Digital Technology related Art Projects
+- 📫 How to reach me:  Write a mail to moritz-mohr95@gmx.de or contact me on instagram @moritzmohrdesign 
